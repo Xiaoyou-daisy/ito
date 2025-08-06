@@ -1,0 +1,3314 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GoORMHelperCache">
+    <option name="schemaMapping">
+      <map>
+        <entry key="AddPointReq">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/admin.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="AddPointRes">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/admin.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="Admin">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/internal/data/mobile.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="AdminHTTPClientImpl">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/admin_http.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="AdminLoginReq">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/admin.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="AdminLoginRes">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/admin.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="AdminRepo">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/internal/data/admin.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="AdminRequest">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/user.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="AdminRes">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/user.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="AdminService">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/internal/service/admin.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="AdminUsecase">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/internal/biz/admin.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="BaiduMapClient">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/internal/pkg/baidumap/geocoding.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="BatchCreateCabinetCellsReply">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/cell.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="BatchCreateCabinetCellsRequest">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/cell.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="Bootstrap">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/internal/conf/conf.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="CabinetCell">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/internal/biz/cabinet_cell.go" />
+              <option value="file://$PROJECT_DIR$/ito-deposit/internal/data/cabinet_cell.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="CabinetCellHTTPClientImpl">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/cell_http.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="CabinetCellInfo">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/cell.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="CabinetCellService">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/internal/service/cabinet_cell.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="CabinetCellUsecase">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/internal/biz/cabinet_cell.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="CabinetGroup">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/internal/data/cabinet_group.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="City">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/internal/biz/city.go" />
+              <option value="file://$PROJECT_DIR$/ito-deposit/internal/data/city.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="CityHTTPClientImpl">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/city_http.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="CityInfo">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/city.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="CityService">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/internal/service/city.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="CityUsecase">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/internal/biz/city.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="CloseCabinetCellReply">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/cell.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="CloseCabinetCellRequest">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/cell.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="ClusterInfo">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/nearby.pb.go" />
+              <option value="file://$PROJECT_DIR$/ito-deposit/internal/biz/nearby.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="CreateCabinetCellReply">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/cell.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="CreateCabinetCellRequest">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/cell.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="CreateCityReply">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/city.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="CreateCityRequest">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/city.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="CreateDepositReply">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/deposit.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="CreateDepositRequest">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/deposit.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="CreateGroupReply">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/group.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="CreateGroupRequest">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/group.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="CreateHomeReply">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/home.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="CreateHomeRequest">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/home.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="CreateLocalReply">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/home.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="CreateLocalRequest">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/home.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="CreateLockerStorageReply">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/order.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="CreateLockerStorageRequest">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/order.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="CreateOrderReply">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/order.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="CreateOrderRequest">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/order.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="Data">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/internal/conf/conf.pb.go" />
+              <option value="file://$PROJECT_DIR$/ito-deposit/internal/data/data.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="Data_Database">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/internal/conf/conf.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="Data_Minio">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/internal/conf/conf.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="Data_Redis">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/internal/conf/conf.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="DecodeTokenRes">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/deposit.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="DeleteCabinetCellReply">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/cell.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="DeleteCabinetCellRequest">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/cell.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="DeleteDepositReply">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/deposit.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="DeleteDepositRequest">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/deposit.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="DeleteGroupReply">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/group.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="DeleteGroupRequest">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/group.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="DeleteHomeReply">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/home.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="DeleteHomeRequest">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/home.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="DeleteOrderReply">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/order.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="DeleteOrderRequest">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/order.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="DepositHTTPClientImpl">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/deposit_http.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="DepositOrderMessage">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/internal/data/mq_consumer.go" />
+              <option value="file://$PROJECT_DIR$/ito-deposit/internal/service/deposit.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="DepositRecord">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/internal/biz/biz.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="DepositReplyData">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/deposit.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="DepositService">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/internal/service/deposit.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="ErrorReply">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/city.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="FindMyNearbyLockerPointsRequest">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/nearby.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="FindNearbyLockerPointsInCityRequest">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/nearby.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="FindNearbyLockerPointsReply">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/nearby.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="FindNearbyLockerPointsRequest">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/nearby.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="GatewayConfig">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/cmd/gateway/main.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="GeoService">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/internal/pkg/geo/geo_service.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="GeocodeResponse">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/internal/pkg/baidumap/geocoding.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="GetAllLockerPointsRequest">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/nearby.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="GetCabinetCellReply">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/cell.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="GetCabinetCellRequest">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/cell.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="GetCabinetCellsByGroupReply">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/cell.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="GetCabinetCellsByGroupRequest">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/cell.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="GetCityByCodeRequest">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/city.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="GetCityLockerPointsMapReply">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/nearby.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="GetCityLockerPointsMapRequest">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/nearby.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="GetCityReply">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/city.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="GetCityRequest">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/city.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="GetDepositLockerReq">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/deposit.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="GetDepositLockerRes">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/deposit.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="GetDepositReply">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/deposit.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="GetDepositRequest">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/deposit.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="GetGroupReply">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/group.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="GetGroupRequest">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/group.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="GetHomeReply">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/home.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="GetHomeRequest">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/home.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="GetHotCitiesRequest">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/city.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="GetMyNearbyInfoReply">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/nearby.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="GetMyNearbyInfoRequest">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/nearby.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="GetOrderReply">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/order.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="GetOrderRequest">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/order.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="GetPriceRuleReq">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/admin.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="GetPriceRuleRes">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/admin.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="GetUserCityReply">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/city.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="GetUserCityRequest">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/city.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="Greeter">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/internal/biz/greeter.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="GreeterHTTPClientImpl">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/greeter_http.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="GreeterService">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/internal/service/greeter.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="GreeterUsecase">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/internal/biz/greeter.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="GroupHTTPClientImpl">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/group_http.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="GroupInfo">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/group.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="GroupService">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/internal/service/group.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="HandleRemindTaskReply">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/order.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="HandleRemindTaskRequest">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/order.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="HandleTimeOutTaskReply">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/order.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="HandleTimeOutTaskRequest">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/order.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="HelloReply">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/greeter.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="HelloRequest">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/greeter.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="HomeHTTPClientImpl">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/home_http.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="HomeService">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/internal/service/home.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="InitLockerPointsGeoReply">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/nearby.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="InitLockerPointsGeoRequest">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/nearby.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="ListCabinetCellsReply">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/cell.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="ListCabinetCellsRequest">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/cell.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="ListCitiesReply">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/city.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="ListCitiesRequest">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/city.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="ListDepositReply">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/deposit.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="ListDepositRequest">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/deposit.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="ListGroupReply">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/group.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="ListGroupRequest">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/group.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="ListHomeReply">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/home.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="ListHomeRequest">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/home.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="ListOrderReply">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/order.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="ListOrderRequest">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/order.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="ListUserCitiesReply">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/city.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="ListUserCitiesRequest">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/city.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="LocalMessage">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/internal/biz/biz.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="Location">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/internal/data/location.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="LocationResponse">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/internal/pkg/baidumap/location_service.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="LocationType">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/internal/data/location_type.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="Locker">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/deposit.pb.go" />
+              <option value="file://$PROJECT_DIR$/ito-deposit/internal/biz/biz.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="LockerOrders">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/internal/biz/biz.go" />
+              <option value="file://$PROJECT_DIR$/ito-deposit/internal/data/locker_orders.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="LockerPoint">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/internal/biz/biz.go" />
+              <option value="file://$PROJECT_DIR$/ito-deposit/internal/data/locker_point.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="LockerPointDetail">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/nearby.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="LockerPointInfo">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/internal/pkg/geo/geo_service.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="LockerPointLocation">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/internal/pkg/geo/geo_service.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="LockerPointService">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/internal/service/locker_point.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="LockerPriceRule">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/admin.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="LockerPricingRules">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/internal/biz/biz.go" />
+              <option value="file://$PROJECT_DIR$/ito-deposit/internal/data/locker_pricing_rules.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="LockerStorages">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/internal/data/locker_pick.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="LockerType">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/internal/data/locker_type.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="Lockers">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/internal/data/locker.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="LoginRequest">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/user.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="LoginRes">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/user.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="ManageOrderDelReply">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/order.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="ManageOrderDelRequest">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/order.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="ManageOrderDetailReply">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/order.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="ManageOrderDetailRequest">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/order.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="ManageOrderSearchReply">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/order.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="ManageOrderSearchRequest">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/order.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="MapData">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/internal/biz/nearby.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="MapPointInfo">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/nearby.pb.go" />
+              <option value="file://$PROJECT_DIR$/ito-deposit/internal/biz/nearby.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="MyNearbyInfo">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/internal/biz/nearby.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="NearbyHTTPClientImpl">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/nearby_http.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="NearbyLockerPoint">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/internal/biz/nearby.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="NearbyLockerPointInfo">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/nearby.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="NearbyService">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/internal/service/nearby.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="NearbyUsecase">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/internal/biz/nearby.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="OpenCabinetCellReply">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/cell.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="OpenCabinetCellRequest">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/cell.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="OrderHTTPClientImpl">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/order_http.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="OrderInfo">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/order.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="OrderList">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/user.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="OrderListRequest">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/user.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="OrderListRes">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/user.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="OrderService">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/internal/service/order.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="Point">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/admin.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="PointInfoReq">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/admin.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="PointInfoRes">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/admin.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="PointList">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/admin.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="PointListReq">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/admin.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="PointListRes">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/admin.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="RealtimeLocationResponse">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/internal/pkg/baidumap/location_service.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="RegisterRequest">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/user.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="RegisterRes">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/user.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="ReturnTokenReq">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/deposit.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="ReturnTokenRes">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/deposit.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="SearchCabinetCellsReply">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/cell.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="SearchCabinetCellsRequest">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/cell.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="SearchCitiesReply">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/city.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="SearchCitiesRequest">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/city.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="SearchGroupReply">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/group.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="SearchGroupRequest">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/group.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="SearchLockerPointsInCityReply">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/nearby.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="SearchLockerPointsInCityRequest">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/nearby.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="SendCodeByOrderReq">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/deposit.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="SendCodeByOrderRes">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/deposit.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="SendSms">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/internal/basic/pkg/sendSms.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="SendSmsRequest">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/user.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="SendSmsRes">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/user.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="Server">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/internal/conf/conf.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="Server_Etcd">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/internal/conf/conf.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="Server_GRPC">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/internal/conf/conf.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="Server_HTTP">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/internal/conf/conf.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="Server_Jwt">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/internal/conf/conf.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="Server_Pprof">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/internal/conf/conf.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="SetPriceRuleReq">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/admin.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="SetPriceRuleRes">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/admin.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="ShowOrderReply">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/order.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="ShowOrderRequest">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/order.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="TimerTasks">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/internal/data/timetask.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="UnimplementedAdminServer">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/admin_grpc.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="UnimplementedCabinetCellServer">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/cell_grpc.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="UnimplementedCityServer">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/city_grpc.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="UnimplementedDepositServer">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/deposit_grpc.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="UnimplementedGreeterServer">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/greeter_grpc.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="UnimplementedGroupServer">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/group_grpc.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="UnimplementedHomeServer">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/home_grpc.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="UnimplementedNearbyServer">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/nearby_grpc.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="UnimplementedOrderServer">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/order_grpc.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="UnimplementedUserServer">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/user_grpc.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="UpdateCabinetCellReply">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/cell.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="UpdateCabinetCellRequest">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/cell.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="UpdateCityReply">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/city.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="UpdateCityRequest">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/city.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="UpdateCityStatusReply">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/city.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="UpdateCityStatusRequest">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/city.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="UpdateDepositLockerIdReq">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/deposit.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="UpdateDepositLockerIdRes">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/deposit.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="UpdateDepositReply">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/deposit.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="UpdateDepositRequest">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/deposit.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="UpdateGroupReply">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/group.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="UpdateGroupRequest">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/group.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="UpdateHomeReply">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/home.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="UpdateHomeRequest">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/home.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="UpdateOrderReply">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/order.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="UpdateOrderRequest">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/order.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="UpdatePointReq">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/admin.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="UpdatePointRes">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/admin.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="UploadFileReq">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/admin.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="UploadFileRes">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/admin.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="UserCityInfo">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/city.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="UserHTTPClientImpl">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/user_http.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="UserLocationInfo">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/nearby.pb.go" />
+              <option value="file://$PROJECT_DIR$/ito-deposit/internal/biz/nearby.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="UserService">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/internal/service/user.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="Users">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/internal/data/mobile.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="adminClient">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/admin_grpc.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="cabinetCellClient">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/cell_grpc.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="cabinetCellRepo">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/internal/data/cabinet_cell_repo.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="cityClient">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/city_grpc.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="cityRepo">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/internal/data/city_repo.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="dbAdapter">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/internal/data/data.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="depositClient">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/deposit_grpc.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="greeterClient">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/greeter_grpc.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="greeterRepo">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/internal/data/greeter.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="groupClient">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/group_grpc.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="homeClient">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/home_grpc.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="lockerPointRepo">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/internal/data/locker_point_repo.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="nearbyClient">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/nearby_grpc.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="nearbyRepo">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/internal/data/nearby_repo.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="orderClient">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/order_grpc.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="redisAdapter">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/internal/data/data.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="result">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/internal/data/locker_point_repo.go" />
+              <option value="file://$PROJECT_DIR$/ito-deposit/internal/service/deposit.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="userClient">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/user_grpc.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="x">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/admin.pb.go" />
+              <option value="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/cell.pb.go" />
+              <option value="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/city.pb.go" />
+              <option value="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/deposit.pb.go" />
+              <option value="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/greeter.pb.go" />
+              <option value="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/group.pb.go" />
+              <option value="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/home.pb.go" />
+              <option value="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/nearby.pb.go" />
+              <option value="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/order.pb.go" />
+              <option value="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/user.pb.go" />
+              <option value="file://$PROJECT_DIR$/ito-deposit/internal/conf/conf.pb.go" />
+            </set>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="scannedPathMapping">
+      <map>
+        <entry key="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/admin.pb.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1754402543588" />
+              <option name="schema">
+                <list>
+                  <option value="UpdatePointRes" />
+                  <option value="UpdatePointReq" />
+                  <option value="Point" />
+                  <option value="AddPointReq" />
+                  <option value="AddPointRes" />
+                  <option value="UploadFileReq" />
+                  <option value="UploadFileRes" />
+                  <option value="AdminLoginReq" />
+                  <option value="AdminLoginRes" />
+                  <option value="SetPriceRuleReq" />
+                  <option value="SetPriceRuleRes" />
+                  <option value="GetPriceRuleReq" />
+                  <option value="GetPriceRuleRes" />
+                  <option value="LockerPriceRule" />
+                  <option value="PointListReq" />
+                  <option value="PointListRes" />
+                  <option value="PointList" />
+                  <option value="PointInfoReq" />
+                  <option value="PointInfoRes" />
+                  <option value="x" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/admin_grpc.pb.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1754402543589" />
+              <option name="schema">
+                <list>
+                  <option value="adminClient" />
+                  <option value="UnimplementedAdminServer" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/admin_http.pb.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1754402543590" />
+              <option name="schema">
+                <list>
+                  <option value="AdminHTTPClientImpl" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/cell.pb.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1754402543590" />
+              <option name="schema">
+                <list>
+                  <option value="CabinetCellInfo" />
+                  <option value="CreateCabinetCellRequest" />
+                  <option value="CreateCabinetCellReply" />
+                  <option value="UpdateCabinetCellRequest" />
+                  <option value="UpdateCabinetCellReply" />
+                  <option value="DeleteCabinetCellRequest" />
+                  <option value="DeleteCabinetCellReply" />
+                  <option value="GetCabinetCellRequest" />
+                  <option value="GetCabinetCellReply" />
+                  <option value="ListCabinetCellsRequest" />
+                  <option value="ListCabinetCellsReply" />
+                  <option value="SearchCabinetCellsRequest" />
+                  <option value="SearchCabinetCellsReply" />
+                  <option value="GetCabinetCellsByGroupRequest" />
+                  <option value="GetCabinetCellsByGroupReply" />
+                  <option value="BatchCreateCabinetCellsRequest" />
+                  <option value="BatchCreateCabinetCellsReply" />
+                  <option value="OpenCabinetCellRequest" />
+                  <option value="OpenCabinetCellReply" />
+                  <option value="CloseCabinetCellRequest" />
+                  <option value="CloseCabinetCellReply" />
+                  <option value="x" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/cell_grpc.pb.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1754402543592" />
+              <option name="schema">
+                <list>
+                  <option value="cabinetCellClient" />
+                  <option value="UnimplementedCabinetCellServer" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/cell_http.pb.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1754402543592" />
+              <option name="schema">
+                <list>
+                  <option value="CabinetCellHTTPClientImpl" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/city.pb.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1754402543592" />
+              <option name="schema">
+                <list>
+                  <option value="CreateCityRequest" />
+                  <option value="CreateCityReply" />
+                  <option value="UpdateCityRequest" />
+                  <option value="UpdateCityReply" />
+                  <option value="GetCityRequest" />
+                  <option value="GetCityReply" />
+                  <option value="CityInfo" />
+                  <option value="ListCitiesRequest" />
+                  <option value="ListCitiesReply" />
+                  <option value="UpdateCityStatusRequest" />
+                  <option value="UpdateCityStatusReply" />
+                  <option value="UserCityInfo" />
+                  <option value="ListUserCitiesRequest" />
+                  <option value="ListUserCitiesReply" />
+                  <option value="SearchCitiesRequest" />
+                  <option value="SearchCitiesReply" />
+                  <option value="GetUserCityRequest" />
+                  <option value="GetUserCityReply" />
+                  <option value="GetCityByCodeRequest" />
+                  <option value="GetHotCitiesRequest" />
+                  <option value="ErrorReply" />
+                  <option value="x" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/city_errors.pb.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1754402543595" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/city_grpc.pb.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1754402543595" />
+              <option name="schema">
+                <list>
+                  <option value="cityClient" />
+                  <option value="UnimplementedCityServer" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/city_http.pb.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1754402543596" />
+              <option name="schema">
+                <list>
+                  <option value="CityHTTPClientImpl" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/deposit.pb.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1754402543596" />
+              <option name="schema">
+                <list>
+                  <option value="SendCodeByOrderReq" />
+                  <option value="SendCodeByOrderRes" />
+                  <option value="UpdateDepositLockerIdReq" />
+                  <option value="UpdateDepositLockerIdRes" />
+                  <option value="GetDepositLockerReq" />
+                  <option value="GetDepositLockerRes" />
+                  <option value="Locker" />
+                  <option value="CreateDepositRequest" />
+                  <option value="CreateDepositReply" />
+                  <option value="DepositReplyData" />
+                  <option value="UpdateDepositRequest" />
+                  <option value="UpdateDepositReply" />
+                  <option value="DeleteDepositRequest" />
+                  <option value="DeleteDepositReply" />
+                  <option value="GetDepositRequest" />
+                  <option value="GetDepositReply" />
+                  <option value="ListDepositRequest" />
+                  <option value="ListDepositReply" />
+                  <option value="ReturnTokenReq" />
+                  <option value="ReturnTokenRes" />
+                  <option value="DecodeTokenRes" />
+                  <option value="x" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/deposit_grpc.pb.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1754402543597" />
+              <option name="schema">
+                <list>
+                  <option value="depositClient" />
+                  <option value="UnimplementedDepositServer" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/deposit_http.pb.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1754402543598" />
+              <option name="schema">
+                <list>
+                  <option value="DepositHTTPClientImpl" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/greeter.pb.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1754402543598" />
+              <option name="schema">
+                <list>
+                  <option value="HelloRequest" />
+                  <option value="HelloReply" />
+                  <option value="x" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/greeter_grpc.pb.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1754402543598" />
+              <option name="schema">
+                <list>
+                  <option value="greeterClient" />
+                  <option value="UnimplementedGreeterServer" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/greeter_http.pb.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1754402543601" />
+              <option name="schema">
+                <list>
+                  <option value="GreeterHTTPClientImpl" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/group.pb.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1754402543601" />
+              <option name="schema">
+                <list>
+                  <option value="GroupInfo" />
+                  <option value="CreateGroupRequest" />
+                  <option value="CreateGroupReply" />
+                  <option value="UpdateGroupRequest" />
+                  <option value="UpdateGroupReply" />
+                  <option value="DeleteGroupRequest" />
+                  <option value="DeleteGroupReply" />
+                  <option value="GetGroupRequest" />
+                  <option value="GetGroupReply" />
+                  <option value="ListGroupRequest" />
+                  <option value="ListGroupReply" />
+                  <option value="SearchGroupRequest" />
+                  <option value="SearchGroupReply" />
+                  <option value="x" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/group_grpc.pb.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1754402543601" />
+              <option name="schema">
+                <list>
+                  <option value="groupClient" />
+                  <option value="UnimplementedGroupServer" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/group_http.pb.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1754402543603" />
+              <option name="schema">
+                <list>
+                  <option value="GroupHTTPClientImpl" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/home.pb.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1754402543603" />
+              <option name="schema">
+                <list>
+                  <option value="CreateHomeRequest" />
+                  <option value="CreateHomeReply" />
+                  <option value="UpdateHomeRequest" />
+                  <option value="UpdateHomeReply" />
+                  <option value="DeleteHomeRequest" />
+                  <option value="DeleteHomeReply" />
+                  <option value="GetHomeRequest" />
+                  <option value="GetHomeReply" />
+                  <option value="ListHomeRequest" />
+                  <option value="ListHomeReply" />
+                  <option value="CreateLocalRequest" />
+                  <option value="CreateLocalReply" />
+                  <option value="x" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/home_grpc.pb.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1754402543604" />
+              <option name="schema">
+                <list>
+                  <option value="homeClient" />
+                  <option value="UnimplementedHomeServer" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/home_http.pb.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1754402543604" />
+              <option name="schema">
+                <list>
+                  <option value="HomeHTTPClientImpl" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/nearby.pb.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1754402543606" />
+              <option name="schema">
+                <list>
+                  <option value="InitLockerPointsGeoRequest" />
+                  <option value="InitLockerPointsGeoReply" />
+                  <option value="FindNearbyLockerPointsRequest" />
+                  <option value="NearbyLockerPointInfo" />
+                  <option value="FindNearbyLockerPointsReply" />
+                  <option value="FindNearbyLockerPointsInCityRequest" />
+                  <option value="FindMyNearbyLockerPointsRequest" />
+                  <option value="SearchLockerPointsInCityRequest" />
+                  <option value="LockerPointDetail" />
+                  <option value="SearchLockerPointsInCityReply" />
+                  <option value="GetCityLockerPointsMapRequest" />
+                  <option value="MapPointInfo" />
+                  <option value="ClusterInfo" />
+                  <option value="GetCityLockerPointsMapReply" />
+                  <option value="GetMyNearbyInfoRequest" />
+                  <option value="GetAllLockerPointsRequest" />
+                  <option value="UserLocationInfo" />
+                  <option value="GetMyNearbyInfoReply" />
+                  <option value="x" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/nearby_errors.pb.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1754402543606" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/nearby_grpc.pb.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1754402543606" />
+              <option name="schema">
+                <list>
+                  <option value="nearbyClient" />
+                  <option value="UnimplementedNearbyServer" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/nearby_http.pb.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1754402543608" />
+              <option name="schema">
+                <list>
+                  <option value="NearbyHTTPClientImpl" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/order.pb.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1754452141012" />
+              <option name="schema">
+                <list>
+                  <option value="ManageOrderDetailRequest" />
+                  <option value="ManageOrderDetailReply" />
+                  <option value="ManageOrderDelRequest" />
+                  <option value="ManageOrderDelReply" />
+                  <option value="HandleTimeOutTaskRequest" />
+                  <option value="HandleTimeOutTaskReply" />
+                  <option value="HandleRemindTaskRequest" />
+                  <option value="HandleRemindTaskReply" />
+                  <option value="CreateLockerStorageRequest" />
+                  <option value="CreateLockerStorageReply" />
+                  <option value="ManageOrderSearchRequest" />
+                  <option value="ManageOrderSearchReply" />
+                  <option value="OrderInfo" />
+                  <option value="CreateOrderRequest" />
+                  <option value="CreateOrderReply" />
+                  <option value="UpdateOrderRequest" />
+                  <option value="UpdateOrderReply" />
+                  <option value="DeleteOrderRequest" />
+                  <option value="DeleteOrderReply" />
+                  <option value="GetOrderRequest" />
+                  <option value="GetOrderReply" />
+                  <option value="ListOrderRequest" />
+                  <option value="ListOrderReply" />
+                  <option value="ShowOrderRequest" />
+                  <option value="ShowOrderReply" />
+                  <option value="x" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/order_grpc.pb.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1754452141012" />
+              <option name="schema">
+                <list>
+                  <option value="orderClient" />
+                  <option value="UnimplementedOrderServer" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/order_http.pb.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1754452141013" />
+              <option name="schema">
+                <list>
+                  <option value="OrderHTTPClientImpl" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/user.pb.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1754402543611" />
+              <option name="schema">
+                <list>
+                  <option value="SendSmsRequest" />
+                  <option value="SendSmsRes" />
+                  <option value="RegisterRequest" />
+                  <option value="RegisterRes" />
+                  <option value="LoginRequest" />
+                  <option value="LoginRes" />
+                  <option value="OrderListRequest" />
+                  <option value="OrderListRes" />
+                  <option value="OrderList" />
+                  <option value="AdminRequest" />
+                  <option value="AdminRes" />
+                  <option value="x" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/user_grpc.pb.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1754402543612" />
+              <option name="schema">
+                <list>
+                  <option value="userClient" />
+                  <option value="UnimplementedUserServer" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/ito-deposit/api/helloworld/v1/user_http.pb.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1754402543612" />
+              <option name="schema">
+                <list>
+                  <option value="UserHTTPClientImpl" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/ito-deposit/cmd/gateway/main.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1754402543612" />
+              <option name="schema">
+                <list>
+                  <option value="GatewayConfig" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/ito-deposit/cmd/ito-deposit/main.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1754402543612" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/ito-deposit/cmd/ito-deposit/wire.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1754402543612" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/ito-deposit/cmd/ito-deposit/wire_gen.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1754402543612" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/ito-deposit/internal/basic/pkg/pay.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1754402543622" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/ito-deposit/internal/basic/pkg/sendSms.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1754402543622" />
+              <option name="schema">
+                <list>
+                  <option value="SendSms" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/ito-deposit/internal/basic/pkg/zap.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1754402543622" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/ito-deposit/internal/biz/admin.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1754402543627" />
+              <option name="schema">
+                <list>
+                  <option value="AdminUsecase" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/ito-deposit/internal/biz/biz.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1754402543627" />
+              <option name="schema">
+                <list>
+                  <option value="Locker" />
+                  <option value="LockerOrders" />
+                  <option value="LockerPoint" />
+                  <option value="LockerPricingRules" />
+                  <option value="LocalMessage" />
+                  <option value="DepositRecord" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/ito-deposit/internal/biz/cabinet_cell.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1754402543627" />
+              <option name="schema">
+                <list>
+                  <option value="CabinetCell" />
+                  <option value="CabinetCellUsecase" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/ito-deposit/internal/biz/city.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1754402543627" />
+              <option name="schema">
+                <list>
+                  <option value="City" />
+                  <option value="CityUsecase" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/ito-deposit/internal/biz/greeter.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1754402543627" />
+              <option name="schema">
+                <list>
+                  <option value="Greeter" />
+                  <option value="GreeterUsecase" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/ito-deposit/internal/biz/nearby.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1754402543627" />
+              <option name="schema">
+                <list>
+                  <option value="NearbyLockerPoint" />
+                  <option value="MapPointInfo" />
+                  <option value="ClusterInfo" />
+                  <option value="MapData" />
+                  <option value="NearbyUsecase" />
+                  <option value="UserLocationInfo" />
+                  <option value="MyNearbyInfo" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/ito-deposit/internal/conf/conf.pb.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1754402543632" />
+              <option name="schema">
+                <list>
+                  <option value="Bootstrap" />
+                  <option value="Server" />
+                  <option value="Data" />
+                  <option value="Server_HTTP" />
+                  <option value="Server_GRPC" />
+                  <option value="Server_Jwt" />
+                  <option value="Server_Pprof" />
+                  <option value="Server_Etcd" />
+                  <option value="Data_Database" />
+                  <option value="Data_Redis" />
+                  <option value="Data_Minio" />
+                  <option value="x" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/ito-deposit/internal/data/admin.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1754402543634" />
+              <option name="schema">
+                <list>
+                  <option value="AdminRepo" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/ito-deposit/internal/data/cabinet_cell.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1754402543635" />
+              <option name="schema">
+                <list>
+                  <option value="CabinetCell" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/ito-deposit/internal/data/cabinet_cell_repo.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1754402543635" />
+              <option name="schema">
+                <list>
+                  <option value="cabinetCellRepo" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/ito-deposit/internal/data/cabinet_group.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1754402543635" />
+              <option name="schema">
+                <list>
+                  <option value="CabinetGroup" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/ito-deposit/internal/data/city.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1754402543635" />
+              <option name="schema">
+                <list>
+                  <option value="City" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/ito-deposit/internal/data/city_repo.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1754402543637" />
+              <option name="schema">
+                <list>
+                  <option value="cityRepo" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/ito-deposit/internal/data/data.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1754402543637" />
+              <option name="schema">
+                <list>
+                  <option value="Data" />
+                  <option value="dbAdapter" />
+                  <option value="redisAdapter" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/ito-deposit/internal/data/greeter.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1754402543637" />
+              <option name="schema">
+                <list>
+                  <option value="greeterRepo" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/ito-deposit/internal/data/location.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1754402543637" />
+              <option name="schema">
+                <list>
+                  <option value="Location" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/ito-deposit/internal/data/location_type.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1754402543639" />
+              <option name="schema">
+                <list>
+                  <option value="LocationType" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/ito-deposit/internal/data/locker.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1754402543639" />
+              <option name="schema">
+                <list>
+                  <option value="Lockers" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/ito-deposit/internal/data/locker_orders.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1754478760855" />
+              <option name="schema">
+                <list>
+                  <option value="LockerOrders" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/ito-deposit/internal/data/locker_pick.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1754402543640" />
+              <option name="schema">
+                <list>
+                  <option value="LockerStorages" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/ito-deposit/internal/data/locker_point.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1754402543642" />
+              <option name="schema">
+                <list>
+                  <option value="LockerPoint" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/ito-deposit/internal/data/locker_point_repo.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1754402543642" />
+              <option name="schema">
+                <list>
+                  <option value="lockerPointRepo" />
+                  <option value="result" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/ito-deposit/internal/data/locker_pricing_rules.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1754402543643" />
+              <option name="schema">
+                <list>
+                  <option value="LockerPricingRules" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/ito-deposit/internal/data/locker_type.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1754402543643" />
+              <option name="schema">
+                <list>
+                  <option value="LockerType" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/ito-deposit/internal/data/mobile.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1754402543644" />
+              <option name="schema">
+                <list>
+                  <option value="Users" />
+                  <option value="Admin" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/ito-deposit/internal/data/mq_consumer.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1754402543644" />
+              <option name="schema">
+                <list>
+                  <option value="DepositOrderMessage" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/ito-deposit/internal/data/nearby_repo.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1754402543644" />
+              <option name="schema">
+                <list>
+                  <option value="nearbyRepo" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/ito-deposit/internal/data/timetask.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1754443866421" />
+              <option name="schema">
+                <list>
+                  <option value="TimerTasks" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/ito-deposit/internal/middleware/auth.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1754402543644" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/ito-deposit/internal/pkg/baidumap/geocoding.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1754402543644" />
+              <option name="schema">
+                <list>
+                  <option value="BaiduMapClient" />
+                  <option value="GeocodeResponse" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/ito-deposit/internal/pkg/baidumap/location_service.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1754402543647" />
+              <option name="schema">
+                <list>
+                  <option value="LocationResponse" />
+                  <option value="RealtimeLocationResponse" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/ito-deposit/internal/pkg/geo/geo_service.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1754402543648" />
+              <option name="schema">
+                <list>
+                  <option value="GeoService" />
+                  <option value="LockerPointLocation" />
+                  <option value="LockerPointInfo" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/ito-deposit/internal/pkg/geo/provider.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1754402543648" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/ito-deposit/internal/server/grpc.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1754402543648" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/ito-deposit/internal/server/http.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1754402543648" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/ito-deposit/internal/server/server.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1754402543651" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/ito-deposit/internal/service/admin.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1754402543652" />
+              <option name="schema">
+                <list>
+                  <option value="AdminService" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/ito-deposit/internal/service/cabinet_cell.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1754402543652" />
+              <option name="schema">
+                <list>
+                  <option value="CabinetCellService" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/ito-deposit/internal/service/city.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1754402543657" />
+              <option name="schema">
+                <list>
+                  <option value="CityService" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/ito-deposit/internal/service/deposit.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1754402543657" />
+              <option name="schema">
+                <list>
+                  <option value="DepositOrderMessage" />
+                  <option value="DepositService" />
+                  <option value="result" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/ito-deposit/internal/service/deposit_test.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1754402543657" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/ito-deposit/internal/service/greeter.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1754402543659" />
+              <option name="schema">
+                <list>
+                  <option value="GreeterService" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/ito-deposit/internal/service/group.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1754402543660" />
+              <option name="schema">
+                <list>
+                  <option value="GroupService" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/ito-deposit/internal/service/home.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1754402543660" />
+              <option name="schema">
+                <list>
+                  <option value="HomeService" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/ito-deposit/internal/service/locker_point.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1754402543661" />
+              <option name="schema">
+                <list>
+                  <option value="LockerPointService" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/ito-deposit/internal/service/nearby.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1754402543661" />
+              <option name="schema">
+                <list>
+                  <option value="NearbyService" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/ito-deposit/internal/service/order.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1754444284558" />
+              <option name="schema">
+                <list>
+                  <option value="OrderService" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/ito-deposit/internal/service/service.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1754402543663" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/ito-deposit/internal/service/user.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1754402543663" />
+              <option name="schema">
+                <list>
+                  <option value="UserService" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="tableStructMapping">
+      <map>
+        <entry key="add_point_req" value="AddPointReq" />
+        <entry key="add_point_res" value="AddPointRes" />
+        <entry key="admin" value="Admin" />
+        <entry key="admin_client" value="adminClient" />
+        <entry key="admin_http_client_impl" value="AdminHTTPClientImpl" />
+        <entry key="admin_login_req" value="AdminLoginReq" />
+        <entry key="admin_login_res" value="AdminLoginRes" />
+        <entry key="admin_repo" value="AdminRepo" />
+        <entry key="admin_request" value="AdminRequest" />
+        <entry key="admin_res" value="AdminRes" />
+        <entry key="admin_service" value="AdminService" />
+        <entry key="admin_usecase" value="AdminUsecase" />
+        <entry key="baidu_map_client" value="BaiduMapClient" />
+        <entry key="batch_create_cabinet_cells_reply" value="BatchCreateCabinetCellsReply" />
+        <entry key="batch_create_cabinet_cells_request" value="BatchCreateCabinetCellsRequest" />
+        <entry key="bootstrap" value="Bootstrap" />
+        <entry key="cabinet_cell" value="CabinetCell" />
+        <entry key="cabinet_cell_client" value="cabinetCellClient" />
+        <entry key="cabinet_cell_http_client_impl" value="CabinetCellHTTPClientImpl" />
+        <entry key="cabinet_cell_info" value="CabinetCellInfo" />
+        <entry key="cabinet_cell_repo" value="cabinetCellRepo" />
+        <entry key="cabinet_cell_service" value="CabinetCellService" />
+        <entry key="cabinet_cell_usecase" value="CabinetCellUsecase" />
+        <entry key="cabinet_group" value="CabinetGroup" />
+        <entry key="city" value="City" />
+        <entry key="city_client" value="cityClient" />
+        <entry key="city_http_client_impl" value="CityHTTPClientImpl" />
+        <entry key="city_info" value="CityInfo" />
+        <entry key="city_repo" value="cityRepo" />
+        <entry key="city_service" value="CityService" />
+        <entry key="city_usecase" value="CityUsecase" />
+        <entry key="close_cabinet_cell_reply" value="CloseCabinetCellReply" />
+        <entry key="close_cabinet_cell_request" value="CloseCabinetCellRequest" />
+        <entry key="cluster_info" value="ClusterInfo" />
+        <entry key="create_cabinet_cell_reply" value="CreateCabinetCellReply" />
+        <entry key="create_cabinet_cell_request" value="CreateCabinetCellRequest" />
+        <entry key="create_city_reply" value="CreateCityReply" />
+        <entry key="create_city_request" value="CreateCityRequest" />
+        <entry key="create_deposit_reply" value="CreateDepositReply" />
+        <entry key="create_deposit_request" value="CreateDepositRequest" />
+        <entry key="create_group_reply" value="CreateGroupReply" />
+        <entry key="create_group_request" value="CreateGroupRequest" />
+        <entry key="create_home_reply" value="CreateHomeReply" />
+        <entry key="create_home_request" value="CreateHomeRequest" />
+        <entry key="create_local_reply" value="CreateLocalReply" />
+        <entry key="create_local_request" value="CreateLocalRequest" />
+        <entry key="create_locker_storage_reply" value="CreateLockerStorageReply" />
+        <entry key="create_locker_storage_request" value="CreateLockerStorageRequest" />
+        <entry key="create_order_reply" value="CreateOrderReply" />
+        <entry key="create_order_request" value="CreateOrderRequest" />
+        <entry key="data" value="Data" />
+        <entry key="data__database" value="Data_Database" />
+        <entry key="data__minio" value="Data_Minio" />
+        <entry key="data__redis" value="Data_Redis" />
+        <entry key="db_adapter" value="dbAdapter" />
+        <entry key="decode_token_res" value="DecodeTokenRes" />
+        <entry key="delete_cabinet_cell_reply" value="DeleteCabinetCellReply" />
+        <entry key="delete_cabinet_cell_request" value="DeleteCabinetCellRequest" />
+        <entry key="delete_deposit_reply" value="DeleteDepositReply" />
+        <entry key="delete_deposit_request" value="DeleteDepositRequest" />
+        <entry key="delete_group_reply" value="DeleteGroupReply" />
+        <entry key="delete_group_request" value="DeleteGroupRequest" />
+        <entry key="delete_home_reply" value="DeleteHomeReply" />
+        <entry key="delete_home_request" value="DeleteHomeRequest" />
+        <entry key="delete_order_reply" value="DeleteOrderReply" />
+        <entry key="delete_order_request" value="DeleteOrderRequest" />
+        <entry key="deposit_client" value="depositClient" />
+        <entry key="deposit_http_client_impl" value="DepositHTTPClientImpl" />
+        <entry key="deposit_order_message" value="DepositOrderMessage" />
+        <entry key="deposit_record" value="DepositRecord" />
+        <entry key="deposit_reply_data" value="DepositReplyData" />
+        <entry key="deposit_service" value="DepositService" />
+        <entry key="error_reply" value="ErrorReply" />
+        <entry key="find_my_nearby_locker_points_request" value="FindMyNearbyLockerPointsRequest" />
+        <entry key="find_nearby_locker_points_in_city_request" value="FindNearbyLockerPointsInCityRequest" />
+        <entry key="find_nearby_locker_points_reply" value="FindNearbyLockerPointsReply" />
+        <entry key="find_nearby_locker_points_request" value="FindNearbyLockerPointsRequest" />
+        <entry key="gateway_config" value="GatewayConfig" />
+        <entry key="geo_service" value="GeoService" />
+        <entry key="geocode_response" value="GeocodeResponse" />
+        <entry key="get_all_locker_points_request" value="GetAllLockerPointsRequest" />
+        <entry key="get_cabinet_cell_reply" value="GetCabinetCellReply" />
+        <entry key="get_cabinet_cell_request" value="GetCabinetCellRequest" />
+        <entry key="get_cabinet_cells_by_group_reply" value="GetCabinetCellsByGroupReply" />
+        <entry key="get_cabinet_cells_by_group_request" value="GetCabinetCellsByGroupRequest" />
+        <entry key="get_city_by_code_request" value="GetCityByCodeRequest" />
+        <entry key="get_city_locker_points_map_reply" value="GetCityLockerPointsMapReply" />
+        <entry key="get_city_locker_points_map_request" value="GetCityLockerPointsMapRequest" />
+        <entry key="get_city_reply" value="GetCityReply" />
+        <entry key="get_city_request" value="GetCityRequest" />
+        <entry key="get_deposit_locker_req" value="GetDepositLockerReq" />
+        <entry key="get_deposit_locker_res" value="GetDepositLockerRes" />
+        <entry key="get_deposit_reply" value="GetDepositReply" />
+        <entry key="get_deposit_request" value="GetDepositRequest" />
+        <entry key="get_group_reply" value="GetGroupReply" />
+        <entry key="get_group_request" value="GetGroupRequest" />
+        <entry key="get_home_reply" value="GetHomeReply" />
+        <entry key="get_home_request" value="GetHomeRequest" />
+        <entry key="get_hot_cities_request" value="GetHotCitiesRequest" />
+        <entry key="get_my_nearby_info_reply" value="GetMyNearbyInfoReply" />
+        <entry key="get_my_nearby_info_request" value="GetMyNearbyInfoRequest" />
+        <entry key="get_order_reply" value="GetOrderReply" />
+        <entry key="get_order_request" value="GetOrderRequest" />
+        <entry key="get_price_rule_req" value="GetPriceRuleReq" />
+        <entry key="get_price_rule_res" value="GetPriceRuleRes" />
+        <entry key="get_user_city_reply" value="GetUserCityReply" />
+        <entry key="get_user_city_request" value="GetUserCityRequest" />
+        <entry key="greeter" value="Greeter" />
+        <entry key="greeter_client" value="greeterClient" />
+        <entry key="greeter_http_client_impl" value="GreeterHTTPClientImpl" />
+        <entry key="greeter_repo" value="greeterRepo" />
+        <entry key="greeter_service" value="GreeterService" />
+        <entry key="greeter_usecase" value="GreeterUsecase" />
+        <entry key="group_client" value="groupClient" />
+        <entry key="group_http_client_impl" value="GroupHTTPClientImpl" />
+        <entry key="group_info" value="GroupInfo" />
+        <entry key="group_service" value="GroupService" />
+        <entry key="handle_remind_task_reply" value="HandleRemindTaskReply" />
+        <entry key="handle_remind_task_request" value="HandleRemindTaskRequest" />
+        <entry key="handle_time_out_task_reply" value="HandleTimeOutTaskReply" />
+        <entry key="handle_time_out_task_request" value="HandleTimeOutTaskRequest" />
+        <entry key="hello_reply" value="HelloReply" />
+        <entry key="hello_request" value="HelloRequest" />
+        <entry key="home_client" value="homeClient" />
+        <entry key="home_http_client_impl" value="HomeHTTPClientImpl" />
+        <entry key="home_service" value="HomeService" />
+        <entry key="init_locker_points_geo_reply" value="InitLockerPointsGeoReply" />
+        <entry key="init_locker_points_geo_request" value="InitLockerPointsGeoRequest" />
+        <entry key="list_cabinet_cells_reply" value="ListCabinetCellsReply" />
+        <entry key="list_cabinet_cells_request" value="ListCabinetCellsRequest" />
+        <entry key="list_cities_reply" value="ListCitiesReply" />
+        <entry key="list_cities_request" value="ListCitiesRequest" />
+        <entry key="list_deposit_reply" value="ListDepositReply" />
+        <entry key="list_deposit_request" value="ListDepositRequest" />
+        <entry key="list_group_reply" value="ListGroupReply" />
+        <entry key="list_group_request" value="ListGroupRequest" />
+        <entry key="list_home_reply" value="ListHomeReply" />
+        <entry key="list_home_request" value="ListHomeRequest" />
+        <entry key="list_order_reply" value="ListOrderReply" />
+        <entry key="list_order_request" value="ListOrderRequest" />
+        <entry key="list_user_cities_reply" value="ListUserCitiesReply" />
+        <entry key="list_user_cities_request" value="ListUserCitiesRequest" />
+        <entry key="local_message" value="LocalMessage" />
+        <entry key="location" value="Location" />
+        <entry key="location_response" value="LocationResponse" />
+        <entry key="location_type" value="LocationType" />
+        <entry key="locker" value="Locker" />
+        <entry key="locker_orders" value="LockerOrders" />
+        <entry key="locker_point" value="LockerPoint" />
+        <entry key="locker_point_detail" value="LockerPointDetail" />
+        <entry key="locker_point_info" value="LockerPointInfo" />
+        <entry key="locker_point_location" value="LockerPointLocation" />
+        <entry key="locker_point_repo" value="lockerPointRepo" />
+        <entry key="locker_point_service" value="LockerPointService" />
+        <entry key="locker_price_rule" value="LockerPriceRule" />
+        <entry key="locker_pricing_rules" value="LockerPricingRules" />
+        <entry key="locker_storages" value="LockerStorages" />
+        <entry key="locker_type" value="LockerType" />
+        <entry key="lockers" value="Lockers" />
+        <entry key="login_request" value="LoginRequest" />
+        <entry key="login_res" value="LoginRes" />
+        <entry key="manage_order_del_reply" value="ManageOrderDelReply" />
+        <entry key="manage_order_del_request" value="ManageOrderDelRequest" />
+        <entry key="manage_order_detail_reply" value="ManageOrderDetailReply" />
+        <entry key="manage_order_detail_request" value="ManageOrderDetailRequest" />
+        <entry key="manage_order_search_reply" value="ManageOrderSearchReply" />
+        <entry key="manage_order_search_request" value="ManageOrderSearchRequest" />
+        <entry key="map_data" value="MapData" />
+        <entry key="map_point_info" value="MapPointInfo" />
+        <entry key="my_nearby_info" value="MyNearbyInfo" />
+        <entry key="nearby_client" value="nearbyClient" />
+        <entry key="nearby_http_client_impl" value="NearbyHTTPClientImpl" />
+        <entry key="nearby_locker_point" value="NearbyLockerPoint" />
+        <entry key="nearby_locker_point_info" value="NearbyLockerPointInfo" />
+        <entry key="nearby_repo" value="nearbyRepo" />
+        <entry key="nearby_service" value="NearbyService" />
+        <entry key="nearby_usecase" value="NearbyUsecase" />
+        <entry key="open_cabinet_cell_reply" value="OpenCabinetCellReply" />
+        <entry key="open_cabinet_cell_request" value="OpenCabinetCellRequest" />
+        <entry key="order_client" value="orderClient" />
+        <entry key="order_http_client_impl" value="OrderHTTPClientImpl" />
+        <entry key="order_info" value="OrderInfo" />
+        <entry key="order_list" value="OrderList" />
+        <entry key="order_list_request" value="OrderListRequest" />
+        <entry key="order_list_res" value="OrderListRes" />
+        <entry key="order_service" value="OrderService" />
+        <entry key="point" value="Point" />
+        <entry key="point_info_req" value="PointInfoReq" />
+        <entry key="point_info_res" value="PointInfoRes" />
+        <entry key="point_list" value="PointList" />
+        <entry key="point_list_req" value="PointListReq" />
+        <entry key="point_list_res" value="PointListRes" />
+        <entry key="realtime_location_response" value="RealtimeLocationResponse" />
+        <entry key="redis_adapter" value="redisAdapter" />
+        <entry key="register_request" value="RegisterRequest" />
+        <entry key="register_res" value="RegisterRes" />
+        <entry key="result" value="result" />
+        <entry key="return_token_req" value="ReturnTokenReq" />
+        <entry key="return_token_res" value="ReturnTokenRes" />
+        <entry key="search_cabinet_cells_reply" value="SearchCabinetCellsReply" />
+        <entry key="search_cabinet_cells_request" value="SearchCabinetCellsRequest" />
+        <entry key="search_cities_reply" value="SearchCitiesReply" />
+        <entry key="search_cities_request" value="SearchCitiesRequest" />
+        <entry key="search_group_reply" value="SearchGroupReply" />
+        <entry key="search_group_request" value="SearchGroupRequest" />
+        <entry key="search_locker_points_in_city_reply" value="SearchLockerPointsInCityReply" />
+        <entry key="search_locker_points_in_city_request" value="SearchLockerPointsInCityRequest" />
+        <entry key="send_code_by_order_req" value="SendCodeByOrderReq" />
+        <entry key="send_code_by_order_res" value="SendCodeByOrderRes" />
+        <entry key="send_sms" value="SendSms" />
+        <entry key="send_sms_request" value="SendSmsRequest" />
+        <entry key="send_sms_res" value="SendSmsRes" />
+        <entry key="server" value="Server" />
+        <entry key="server__etcd" value="Server_Etcd" />
+        <entry key="server__jwt" value="Server_Jwt" />
+        <entry key="server__pprof" value="Server_Pprof" />
+        <entry key="server_grpc" value="Server_GRPC" />
+        <entry key="server_http" value="Server_HTTP" />
+        <entry key="set_price_rule_req" value="SetPriceRuleReq" />
+        <entry key="set_price_rule_res" value="SetPriceRuleRes" />
+        <entry key="show_order_reply" value="ShowOrderReply" />
+        <entry key="show_order_request" value="ShowOrderRequest" />
+        <entry key="timer_tasks" value="TimerTasks" />
+        <entry key="unimplemented_admin_server" value="UnimplementedAdminServer" />
+        <entry key="unimplemented_cabinet_cell_server" value="UnimplementedCabinetCellServer" />
+        <entry key="unimplemented_city_server" value="UnimplementedCityServer" />
+        <entry key="unimplemented_deposit_server" value="UnimplementedDepositServer" />
+        <entry key="unimplemented_greeter_server" value="UnimplementedGreeterServer" />
+        <entry key="unimplemented_group_server" value="UnimplementedGroupServer" />
+        <entry key="unimplemented_home_server" value="UnimplementedHomeServer" />
+        <entry key="unimplemented_nearby_server" value="UnimplementedNearbyServer" />
+        <entry key="unimplemented_order_server" value="UnimplementedOrderServer" />
+        <entry key="unimplemented_user_server" value="UnimplementedUserServer" />
+        <entry key="update_cabinet_cell_reply" value="UpdateCabinetCellReply" />
+        <entry key="update_cabinet_cell_request" value="UpdateCabinetCellRequest" />
+        <entry key="update_city_reply" value="UpdateCityReply" />
+        <entry key="update_city_request" value="UpdateCityRequest" />
+        <entry key="update_city_status_reply" value="UpdateCityStatusReply" />
+        <entry key="update_city_status_request" value="UpdateCityStatusRequest" />
+        <entry key="update_deposit_locker_id_req" value="UpdateDepositLockerIdReq" />
+        <entry key="update_deposit_locker_id_res" value="UpdateDepositLockerIdRes" />
+        <entry key="update_deposit_reply" value="UpdateDepositReply" />
+        <entry key="update_deposit_request" value="UpdateDepositRequest" />
+        <entry key="update_group_reply" value="UpdateGroupReply" />
+        <entry key="update_group_request" value="UpdateGroupRequest" />
+        <entry key="update_home_reply" value="UpdateHomeReply" />
+        <entry key="update_home_request" value="UpdateHomeRequest" />
+        <entry key="update_order_reply" value="UpdateOrderReply" />
+        <entry key="update_order_request" value="UpdateOrderRequest" />
+        <entry key="update_point_req" value="UpdatePointReq" />
+        <entry key="update_point_res" value="UpdatePointRes" />
+        <entry key="upload_file_req" value="UploadFileReq" />
+        <entry key="upload_file_res" value="UploadFileRes" />
+        <entry key="user_city_info" value="UserCityInfo" />
+        <entry key="user_client" value="userClient" />
+        <entry key="user_http_client_impl" value="UserHTTPClientImpl" />
+        <entry key="user_location_info" value="UserLocationInfo" />
+        <entry key="user_service" value="UserService" />
+        <entry key="users" value="Users" />
+        <entry key="x" value="x" />
+      </map>
+    </option>
+    <option name="lastTimeChecked" value="1754485427849" />
+  </component>
+</project>
